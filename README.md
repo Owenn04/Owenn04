@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various webapps such as RecipeApp1 and a Svelt Project<br>👯 I’m looking to collaborate on anything cool<br>🤝 I’m looking for help with nothign at the moment<br>🌱 I'm learning to use sklearn for building machine learning models, with a focus on image recognition.<br>💬 Ask me about my life<br>⚡ Fun fact javascript is the best programming language
+🔭 I’m currently working on various things<br>👯 I’m looking to collaborate on anything cool<br>🤝 I’m looking for help with nothign at the moment<br>🌱 I'm learning to tensorflow and other ML stuff<br>💬 Ask me about my life<br>⚡ Fun fact javascript is the best programming language
 
 
 ## 🌐 Socials:
