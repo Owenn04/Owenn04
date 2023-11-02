@@ -1,6 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on various things<br>👯 I’m looking to collaborate on anything cool<br>🤝 I’m looking for help with nothign at the moment<br>🌱 I'm learning to tensorflow and other ML stuff<br>💬 Ask me about my life<br>⚡ Fun fact javascript is the best programming language
-
+#  About Me:
+Hi
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/starege1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/owensawler/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/owen-sawler-6366b6232/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/home) 
